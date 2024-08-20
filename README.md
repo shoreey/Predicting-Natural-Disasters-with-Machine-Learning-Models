@@ -130,12 +130,18 @@ The dataset contains information about different types of natural disasters acro
       13       0.93      0.95      0.94      5272
 accuracy                           0.96     73808
 
+## Deployment
+- Panel was used to deploy the Natural Disaster Predictor
+
+
 ## Technologies Used
 - Python
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
+- panel
 
 ## How to Use
 1. Run the Jupyter notebook or Python script
+2. use the panel app in jupyter notebook after saving the models
 
 ## Future Work
 - Explore more advanced feature engineering techniques
